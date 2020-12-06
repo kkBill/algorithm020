@@ -51,5 +51,5 @@ public void divide_conquer(Problem problem, int param) {
 
 本周主要整理了**回溯**相关的题目。笔记主要包括两个方面，首先，找了很多资料去补充理解回溯思想的本质，最后整理在自己的github仓库中。其次，整理了LeetCode中有关回溯的15道题。如下：
 
-1. [回溯思想](https://github.com/kkBill/algorithm/blob/master/note/%E5%9B%9E%E6%BA%AF%E6%80%9D%E6%83%B3.md)
+1. [回溯思想](https://github.com/kkBill/algorithm/blob/master/note/backtrack-understanding.md)
 2. [常见回溯例题整理](https://github.com/kkBill/algorithm/blob/master/note/Backtracking.md)
